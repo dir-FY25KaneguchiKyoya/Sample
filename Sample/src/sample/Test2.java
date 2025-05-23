@@ -1,9 +1,11 @@
-public class Sample {
+package sample;
 
-    public static void main(String[] args) {
-        String if = "何らかのデータ";
-        if = "別の何か";
-
-        System.out.println(if);
+    public class Test2 {
+        
+        public static void main(String[] args) {
+        int i1 = 11;
+        int i2 = 10;
+        
+        System.out.println(i1);
     }
 }
